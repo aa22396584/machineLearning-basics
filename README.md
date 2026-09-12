@@ -1,5 +1,10 @@
 # 機器學習完整教程 | Machine Learning Complete Tutorial
 
+> **Development home:** https://github.com/ImL1s/machineLearning-basics  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/machineLearning-basics) · [GitLab](https://gitlab.com/aa22396584/machineLearning-basics)
+
+
 <div align="center">
 
 **從零到深入的機器學習全攻略：理論、算法與實踐**
