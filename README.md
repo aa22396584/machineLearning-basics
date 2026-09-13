@@ -8,6 +8,8 @@ https://github.com/aa22396584/machineLearning-basics
 [Codeberg](https://codeberg.org/ImL1s/machineLearning-basics)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/machineLearning-basics`](https://github.com/ImL1s/machineLearning-basics) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 <div align="center">
 
 **從零到深入的機器學習全攻略：理論、算法與實踐**
